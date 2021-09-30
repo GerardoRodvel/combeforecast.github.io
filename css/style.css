@@ -18,6 +18,11 @@ VERSION:	Versoin Number
   height:auto
 }
 
+.size{
+  width: 100% !important;
+  height: 95% !important;
+}
+
 .bg-suite{
   background-color: rgb(255, 255, 255) !important;
 }
